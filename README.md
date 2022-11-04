@@ -5,4 +5,4 @@ Landing Page Fury Wheels
  2. Executar o arquivo index.html com seu navegador
 
 Desafios do projeto:
- Neste projeto foquei meus conhecimentos para desenvolver uma landing para uma empresa de rodas de skate utilizando design responsivo com alguns recursos como por exemplo a implementação de um menu hambúrguer.
+ Neste projeto foquei meus conhecimentos para desenvolver uma landing para uma empresa de rodas de skate utilizando design responsivo com alguns recursos em JavaScript como por exemplo a implementação de um menu hambúrguer.
